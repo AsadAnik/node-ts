@@ -4,7 +4,9 @@
 `npm install` or `yarn`
 ## Start dev server with Swagger documentation
 `npm run dev:doc` or `yarn dev:doc`
+
 ![](./README1.png)
+Outlook for API Documentation UI of Swagger looks like
 
 ## Start with ts-node 
 `npm run start` or `yarn start`
