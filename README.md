@@ -2,6 +2,9 @@
 
 ## Installing
 `npm install` or `yarn`
+## Creating `.env` file
+Copy `example.env` and create new file name as `.env`. Add neccessary enviroment keys as your need.
+
 ## Start dev server with Swagger documentation
 `npm run dev:doc` or `yarn dev:doc`
 
