@@ -15,7 +15,7 @@ Outlook for API Documentation UI of Swagger looks like
 ## Build Swagger documentation
 `npm run generate-doc` or `yarn generate-doc`
 
-# CLI commands
+# CLI commands to make your work-flow easier
 
 ## Make Model for resource
 `npm run make:model Post` or `yarn make:model Post`
