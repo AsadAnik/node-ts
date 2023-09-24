@@ -4,6 +4,8 @@
 `npm install` or `yarn`
 ## Start dev server with Swagger documentation
 `npm run dev:doc` or `yarn dev:doc`
+![alt text](https://github.com/[asadanik]/[node-ts]/blob/[main]/README1.png?raw=true)
+
 ## Start with ts-node 
 `npm run start` or `yarn start`
 ## Start with ts-node and Swagger documentation
